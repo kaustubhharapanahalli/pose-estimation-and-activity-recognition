@@ -1,0 +1,16 @@
+handclapping_pose_estimation
+handclapping_poses
+models
+pose_estimated
+predict
+predict_abc
+predicted
+running_pose_estimation
+running_poses
+videoin
+videotoframe
+walking_pose_estimation
+walking_poses
+*__pycache__
+model_face.h5
+int_to_word_out.pickle
